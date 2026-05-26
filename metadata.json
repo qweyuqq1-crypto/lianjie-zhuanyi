@@ -1,0 +1,6 @@
+{
+  "name": "Cyberpunk Neon Link Portal",
+  "description": "A Glassmorphic Cyberpunk portal with neon glowing dynamic link button, WeChat modal preview, and an admin dashboard, ready for Cloudflare Workers & KV deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
