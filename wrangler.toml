@@ -4,7 +4,7 @@ compatibility_date = "2026-05-26"
 
 [[kv_namespaces]]
 binding = "CONFIG_KV"
-id = "<YOUR_KV_NAMESPACE_ID_HERE>"
+id = "<427b993f71454332a54cce34c2d27911>"
 
 # Optional production configurations
 # [env.production]
